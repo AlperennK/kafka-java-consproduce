@@ -16,5 +16,7 @@ To run:
 gradlew run will generate inventory 
 
 To be implemented:
+
 -Write apache avro schemas
+
 -Write tests to verify/validate different avro schemes
