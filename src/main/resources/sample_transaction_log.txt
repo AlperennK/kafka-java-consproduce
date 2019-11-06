@@ -1,12 +1,13 @@
 apples:21
-kruska:16
 pears:5
-pomaranja:111
 beets:7
 bananas:8
 radishes:34
 oranges:7
 plantains:27
+apples:6
+grapes:105
+bananas:6
 apples:3
 radishes:11
 pears:9
